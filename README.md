@@ -1,0 +1,1 @@
+# Bulk-Insert-in-Python-to-MySQL-MariaDB-localhost
